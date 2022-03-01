@@ -1,0 +1,511 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of Duncan Liddel, and his son George Liddel, the on [sic] professor of the mathematicks, and the other a student of philosophie, and John Forbes, printer to the university and town of Aberdeen by way of answer of a scourrilous [sic] ryme sent from Edinburgh. To the tune of, The gentlemans mear is behind.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06447</idno>
+            <idno type="STC">Wing V481</idno>
+            <idno type="STC">ESTC R186017</idno>
+            <idno type="EEBO-CITATION">52529066</idno>
+            <idno type="OCLC">ocm 52529066</idno>
+            <idno type="VID">179202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179202)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2780:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of Duncan Liddel, and his son George Liddel, the on [sic] professor of the mathematicks, and the other a student of philosophie, and John Forbes, printer to the university and town of Aberdeen by way of answer of a scourrilous [sic] ryme sent from Edinburgh. To the tune of, The gentlemans mear is behind.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Sheet also includes: A confutation of James Seton and Mr. Duncan Liddel.</note>
+                  <note>Imperfect: cropped with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liddel, Duncan, --  Professor, fl. 1685.</term>
+               <term>Liddel, George, fl. 1685.</term>
+               <term>Forbes, John, d. 1704.</term>
+               <term>Seton, James, fl. 1685.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:179202:1" rendition="simple:additions"/>
+            <head>A <hi>VINDICAT1ON of</hi> DUNCAN LIDDEL, And his Son GEORGE LIDDEL, The on Profeſſor of the Mathematicks, and the other a Student of Philoſophie, and <hi>John Forbes,</hi> Printer to the Univerſity and Town of <hi>Aberdeen,</hi> by way of Anſwer of a ſcourrilous Ryme ſent from <hi>Edinburgh.</hi>
+            </head>
+            <argument>
+               <p>
+                  <hi>To the Tune of,</hi> The Gentlemans Mear is behind.</p>
+            </argument>
+            <q>
+               <lg>
+                  <l>An Anſwer too that mad Mans Ryme</l>
+                  <l>Will prove an Horſe at fooling time,</l>
+                  <l>And if that fail he'l turn an Aſs,</l>
+                  <l>As Ferrie's compt at the next graſs.</l>
+               </lg>
+            </q>
+            <lg>
+               <l>WHat makes the fooliſh Cocks-comb ſo to carp,</l>
+               <l>Like too a foiſting Curr can nought but bark</l>
+               <l>At him who is profoundly learn'd in all;</l>
+               <l>Not only ſpeculative, but practical</l>
+               <l>Parts of the Mathematicks (which fool ye)</l>
+               <l>Knows even as much as doth a Beetle Bee:</l>
+               <l>But grant ye had ſome skill as ye have none,</l>
+               <l>Then I would ask at you this Queſtion,</l>
+               <l>What is the difference 'twixt an current day?</l>
+               <l>And on compleat if this ye know, I ſay,</l>
+               <l>Your ignorance ye had not ſo bewray'd,</l>
+               <l>Nor in your judgment had ſo much decay'd,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s not to know the difference, I ſay,</l>
+               <l>Tiwxt th' Artificial and the natural day.</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this ye'd known as ye pretend to do,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e had confeſt our Feaſts both right and true,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he firſt, the third of March which cannot fail;</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen without doubt the ninetenth of April.</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſecond holds as ye may read and ſee,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onfirm'd by <hi>Vincent Wing,</hi> and <hi>Gadburry.</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our weakneſs Sir ye very much diſcover.</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or to prove Eaſter by the Jews Paſhover:</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut I with pardon this much moſt tell you</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> greater things I fear ye're too much Jew.</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s for your Hebrew it's not very good,</l>
+               <l>When ye miſtake moneth <hi>Niſan</hi> for <hi>Abib.</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut tho it were as ye would hav't to be;</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nothing proves as all learn'd men agree;</l>
+               <l>Athough good Friday fall near the full Moon;</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et ſtill it holds not ſo, as may be ſeen</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his preſent year, which I think none will doubt:</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t you good Sir, whoſe wit is in your ſnout,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen Chriſt our Saviour ſuffered on the Croſs,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e know that darkneſs was miraculous;</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t that proves nothing to the thing in hand.</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſo I hope your Worſhip's at an ſtand;</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en I conclude who ever you informs</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſt juſtly does deſerve a pair of Horns,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at the leaſt to have the ſame reward</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich <hi>Midas</hi> had: and what is that ye've heard?</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I perceive who ſees you well without</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all he can expect; for without doubt</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nought within, but a poor empty Houſe:</l>
+               <l>A Lodging hardly worthy a Mouſe:</l>
+               <l>But had ye knowledge as ye apprehend</l>
+               <l>Your ſelf to have, then truly I would ſend</l>
+               <l>Some lines unto you of an deeper dy;</l>
+               <l>But to an naughty ſhallow Fellow, I</l>
+               <l>Thinks it below my wrath; becauſe I know</l>
+               <l>Ther's nought within you to your ſelf ye owe,</l>
+               <l>But other learned Mens works that ye ſteel.</l>
+               <l>Which ſure I am ye underſtand not well;</l>
+               <l>And here I will a Leſſon you preſcrive,</l>
+               <l>If ye be wiſe, no longer for to dyve</l>
+               <l>In matters to Antartick to your brain;</l>
+               <l>Or in the leaſt compet with learned Men,</l>
+               <l>Whoſe Books ye are not worthy for to bear,</l>
+               <l>Should make you keep within your proper ſphear</l>
+               <l>To wit the Dung Hill, which ſympathizes beſt,</l>
+               <l>With your dull brains, and there reſolve to reſt;</l>
+               <l>Becauſe theſe heavenly Bodies which wee ſee</l>
+               <l>Goes far beyond thy groſs capacity.</l>
+               <l>Your <hi>Prima Coruu</hi> which is in your Ryme</l>
+               <l>Holds forth your Grammer not to be ſo prime</l>
+               <l>As ye would hav't, beleeved ſince there are none</l>
+               <l>Have learn'd the Rudiments, but knows its wrong.</l>
+               <l>I know by <hi>prima ſtella</hi>'s underſtood;</l>
+               <l>But ye do lake (In An) to make it good,</l>
+               <l>And right conſtruction, which plainly ſhews</l>
+               <l>Your Latin is no better then a Cows.</l>
+               <l>What are theſe Problems? twelve I do not know</l>
+               <l>Ye've anſwered him, he only you but two,</l>
+               <l>To lie ſo groſly holds you forth more baſe</l>
+               <l>Then any horned Ox or ſurdid Aſſe.</l>
+               <l>Next ye bring in to back your lies old Lilly;</l>
+               <l>Had ye a tail ye'd make a compleat filly,</l>
+               <l>For <hi>Lilly</hi> our Profeſſor know to be</l>
+               <l>As great a Maſter of the Art as he;</l>
+               <l>Although theſe jugling tricks he did not uſe,</l>
+               <l>Which <hi>Lilly</hi> did poor people to abuſe,</l>
+               <l>Erecting figures of Aſtrology</l>
+               <l>To cheat them, had not knowledge of their money.</l>
+               <l>If Maſter <hi>Duncan</hi> pleaſed to contend</l>
+               <l>With on like you, ther's none needs him defend;</l>
+               <l>But that he think's it below him to conteſt,</l>
+               <l>With either hummel or with horned beaſt.</l>
+               <l>Now of this Matter for to make an end</l>
+               <l>With our Profeſſor do not more contend,</l>
+               <l>Whoſe skill and knowledge in Aſtronomy,</l>
+               <l>And all the ſecrets of Aſtrology</l>
+               <l>Is known to be ſo great, that there are few.</l>
+               <l>Will dare to challeng't, but an Aſſe like you;</l>
+               <l>Since all the learn'd Profeſſors of this Art,</l>
+               <l>In <hi>Britan</hi> or in whatſomever part,</l>
+               <l>Both will and have acknowledged and confeſt,</l>
+               <l>He is not inferior to the very beſt.</l>
+               <l>As for <hi>George Liddel</hi> whoſe years do not arrive</l>
+               <l>As yet unto the Number of four times five.</l>
+               <l>Moſt ſhameful hath put you to the foil,</l>
+               <l>And made you back upon your breach recoile</l>
+               <l>Whoſe printed Problems plain and clearly ſhew,</l>
+               <l>Which yet are extant to the publick is view</l>
+               <l>I think, and ſo ſhould every wiſe Man too;</l>
+               <l>Ye ſhould deſiſt from rayling as ye do.</l>
+               <l>Whereas ye talk of <hi>George</hi> to run their fiddel,</l>
+               <l>Aſſure your ſelf e're long ye's have a Riddel</l>
+               <l>Shall run you well enough, but that I fear</l>
+               <l>Your madneſs ſpoil your brains e'r ye come there.</l>
+               <l>As for our Printer ye ſtrive too abuſe,</l>
+               <l>Who is a Gentleman, and does not uſe</l>
+               <l>To rail on any man, but no thing's true.</l>
+               <l>I hope he's nothing yet behind with you;</l>
+               <l>But that he thinks't below him to conteſt</l>
+               <l>With you that loves to rail and lie at beſt.</l>
+               <l>If I had thought thee worthy of my Pen,</l>
+               <l>I could have written in an higher ſtrain;</l>
+               <l>But for an Block-head this is good enough,</l>
+               <l>Whoſe learning fits him better for the plough,</l>
+               <l>Then for to ſtrain his Ruſtick brainet ſo high,</l>
+               <l>As touch at Matters of Aſtronomy.</l>
+               <l>If I eſteem'd Thee better than a Slav,</l>
+               <l>I 'd take in hand to Ryme thee to thy Grave.</l>
+               <l>Your empty head's no better then a ſtock,</l>
+               <l>Fit for to be an Haberdaſcher's block;</l>
+               <l>And ſhall I ſpeak more properly my mind,</l>
+               <l>At beſt ye 're but a bladder blown with wind.</l>
+               <l>But I'le conclude, take head to your ſelf,</l>
+               <l>In caſe ye ſplite upon a Northern ſhelf;</l>
+               <l>Since I have power to make an Storm ariſe,</l>
+               <l>Shall quite deſtract you if ye'l not be wiſe.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>A CONFUTATION <hi>OF</hi> JAMES SETON And <hi>Mr.</hi> DUNCAN LIDDEL OR, <hi>An anſwer to the foreſaid Rables, Who place their Art in lying Tables; Against</hi> James Seton <hi>and the Beaſts, Who will maintain Erronous Feaſts.</hi>
+            </head>
+            <argument>
+               <p>Tune.</p>
+               <lg>
+                  <l>The Gentleman <hi>John Forbes</hi> Mear's behin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Then <hi>Paterſons</hi> ye ſtill before ſhall find.</l>
+               </lg>
+            </argument>
+            <lg>
+               <l>IN Faſtens-Even ye ſe it is moſt plain,</l>
+               <l>At <hi>Aberdeen</hi> they take their word ag<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>As here before it clearly may be ſeen,</l>
+               <l>But Cocks do rave ſtill near to Faſtens-Eve</l>
+               <l>Yet how can this be, they are Horned Be<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>Becauſe they err'd ſo much into the Feaſt</l>
+               <l>But what of this, they may be changed a <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>You know upon <hi>Acteon</hi> what did fall.</l>
+            </lg>
+            <lg>
+               <l>Becauſe he had to curious a Brain,</l>
+               <l>For to Eſpy and make his Sex a Stain;</l>
+               <l>He firſt on two feet, then on four did go</l>
+               <l>May not their four, likewiſe be changed t<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>For when like Beaſts before they did rem<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>Acteons</hi> foiſting Currs would have them ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>But to return they are now in the burrs,</l>
+               <l>Their Combs do vex them, like <hi>Acteons</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>Yea, Hony Combs that cometh from th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>Doth vex theſe Drons, as clearly you may</l>
+               <l>And now they do begin for to diſcover,</l>
+               <l>Their Ignorance into the <hi>Jews</hi> Paſs-over</l>
+               <l>They do their <hi>contra</hi>-party call a <hi>Jew,</hi>
+               </l>
+               <l>But who will read in Holy write, <hi>Mat<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>
+                  <hi>The twenty ſix,</hi> and likewiſe <hi>Mark fo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>Will clearly ſee that we no <hi>Jews</hi> have bee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>Then read what follows and ye will diſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>Our SAVIOUR ſuffer'd at the <hi>Jews</hi> Paſs-<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>And that he did on Sunday next ariſe,</l>
+               <l>Which none but <hi>Jews</hi> this any way den<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>Conſider this, and ye will find it true,</l>
+               <l>And clearly know who now have been th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>You cite both <hi>Vincent Wing,</hi> and <hi>Ga<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>Whoſe Rules are right, but Tables wrong th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Engliſh Liturgy</hi> will you confoun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Although of Art you ſay you're ſo profo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>For it doth give the ſame Rule that we u<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>Now if you loſs your Comb you'le prove a <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Whoſe Feathers Southward did fly with th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>But left the Gooſs for to be Roſt behind:</l>
+               <l>Againſt the Feaſt of <hi>Chriſtian-maſs</hi> I tr<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>And then we'le know the <hi>Chriſtian</hi> from th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>The Month <hi>Niſan</hi> and <hi>Abib</hi> is all o<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>Which none denies except your ſelf a <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Thou Boaſts of <hi>Hebrew</hi> like a learned <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
